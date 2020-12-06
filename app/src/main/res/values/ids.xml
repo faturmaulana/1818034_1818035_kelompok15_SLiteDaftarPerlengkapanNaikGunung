@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="updel_nama" type="id" />
+    <item name="updel_jumlah" type="id" />
+    <item name="updel_harga" type="id" />
+    <item name="btn_up" type="id" />
+    <item name="btn_del" type="id" />
+</resources>

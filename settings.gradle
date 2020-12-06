@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "1818034_1818035_Kelompok15_SqliteDaftarPerlengkapanNaikGunung"
